@@ -6,7 +6,7 @@ padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
 		  color: purple;
-    background-color: #555555 }
+    background-color: #FFFFFF }
 	  ul.navbar {
      list-style-type: none;
     padding: 0;
@@ -64,4 +64,3 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
-  
